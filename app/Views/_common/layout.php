@@ -49,10 +49,10 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="<?php echo base_url('perfil') ?>">
-                            Perfis
+                            Perfil
                         </a>
                         <a class="dropdown-item" href="<?php echo base_url('usuario') ?>">
-                            Usuários
+                            Usuário
                         </a>
                     </div>
                 </li>
